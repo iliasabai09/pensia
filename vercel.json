@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/restServiceCabinet/qrCode/document",
+      "destination": "/restServiceCabinet/qrCode/document/documentVipiska.pdf",
+      "permanent": false
+    }
+  ]
+}
